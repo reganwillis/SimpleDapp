@@ -9,7 +9,14 @@
       <div class="row">
         <div class="col-sm-12">
           <h1>Hello World</h1>
-          <div>Data: <span id='hello'></span></div>
+	  <form id='setData'>
+            <div class='form-group'>
+	      <label for='setDatainput'>Set Data (number)</label>
+	      <input id='setDataInput' type='number' class='form-control'></input>
+	    </div>
+	    <button type='submit' class='btn btn-primary'>Submit</button>  
+	  </form>
+	  <div>Data: <span id='data'></span></div>
         </div>
       </div>
     </div>
