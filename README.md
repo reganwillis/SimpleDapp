@@ -1,5 +1,7 @@
 # SimpleDapp
 
+**See the [Skeleton Dapp](https://github.com/reganwillis/Skeleton-Dapp) for a more updated version of this concept.**
+
 This simple decentralized app follows [this tutorial](https://www.youtube.com/watch?v=8wMKq7HvbKw). It uses [solidity](https://soliditylang.org/) programming language for the smart contract, [truffle](https://www.trufflesuite.com/truffle) to manage the smart contract artifact, and [ganache](https://www.trufflesuite.com/ganache) for the personal Ethereum blockchain.
 
 ## Building the Project
